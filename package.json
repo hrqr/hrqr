@@ -1,0 +1,27 @@
+{
+  "name": "hrqr",
+  "version": "1.0.0",
+  "description": "A Human Readable Quick Response Code Generator and Decoder Library",
+  "main": "HRQR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrqr/hrqr.git"
+  },
+  "keywords": [
+    "hrqr",
+    "qr",
+    "human",
+    "readable",
+    "code",
+    "matrix"
+  ],
+  "author": "Valentin Heun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrqr/hrqr/issues"
+  },
+  "homepage": "https://github.com/hrqr/hrqr#readme"
+}
